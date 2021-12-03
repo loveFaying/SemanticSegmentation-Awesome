@@ -1,0 +1,8 @@
+einops==0.3.2
+numpy==1.19.2
+PyYAML==6.0
+scipy==1.6.1
+timm==0.4.12
+torch==1.8.0.dev20210131+cu110
+torchviz==0.0.2
+yacs==0.1.8
